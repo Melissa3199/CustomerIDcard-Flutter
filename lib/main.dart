@@ -98,7 +98,7 @@ class _CustomerCardState extends State<CustomerCard> {
               children: <Widget>[
                 Icon(
                   Icons.email,
-                  color : Colors.white,
+                  color  : Colors.white,
                 ),
                 SizedBox(width : 10.0),
                 Text(
